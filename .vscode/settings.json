@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "golang.go",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 15000,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
